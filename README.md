@@ -1,12 +1,14 @@
 # 🏥 Medical Insurance Cost Prediction using Multiple Linear Regression
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-complexiota-181717?style=flat&logo=github)](https://github.com/complexiota)
+[![Author](https://img.shields.io/badge/Author-Ravi%20Parkhe-blue?style=flat&logo=github)](https://github.com/RaviParkhe)
+[![Helped By](https://img.shields.io/badge/Helped%20By-complexiota-181717?style=flat&logo=github)](https://github.com/complexiota)
 [![Python](https://img.shields.io/badge/Python-3.14-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 An end-to-end econometric and statistical machine learning project implementing **Multiple Linear Regression (Ordinary Least Squares - OLS)** to predict individual medical healthcare charges and identify key cost drivers.
 
-Maintained by **[@complexiota](https://github.com/complexiota)**.
+**Author & Developer**: [Ravi Parkhe](https://github.com/RaviParkhe)  
+**Project Guidance & Support**: Special thanks to [complexiota](https://github.com/complexiota) for helping build this project.
 
 ---
 
@@ -149,9 +151,14 @@ print('Dataset ready at:', path)
 
 ---
 
-## 👤 Author & Connect
+## 👤 Author
 
-Developed by **[complexiota](https://github.com/complexiota)**.
+Developed and authored by **[Ravi Parkhe](https://github.com/RaviParkhe)**.
 
-- **GitHub Profile**: [https://github.com/complexiota](https://github.com/complexiota)
-- Contributions, issues, and feature suggestions are welcome!
+- **GitHub Profile**: [https://github.com/RaviParkhe](https://github.com/RaviParkhe)
+
+---
+
+## 🤝 Acknowledgments & Special Thanks
+
+Special thanks to **[complexiota](https://github.com/complexiota)** ([https://github.com/complexiota](https://github.com/complexiota)) for the guidance, mentorship, and support that helped build this project!
